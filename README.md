@@ -2,6 +2,9 @@
 Greetings and this is another mod of SPD.I have to note that this project have a rather long way to what is called 'formal version' so it might be a bad choice for a playing fun during a long time.
 
 This is New version of Pixel Dungeon Of Teller with Libgdx code base!Old version can be found at here:https://github.com/1015561267/Pixel_Dungeon_Of_Teller
+
+Although this make use of Libgdx,but I haven't compile a desktop or ios version and there shall be some bugs.May finish them(at least desktop's later)
+
 # # Highlights:
 * Overrided damage system(not in total use yet)
 * A large increase amount of weapons(still not enough and many needs to be replaced)
